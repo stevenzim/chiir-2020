@@ -27,7 +27,7 @@ Supplementary materials used in analysis for CHIIR 2020 publication "Towards Sea
 - Please cite the paper ["WhoTracks.Me: Shedding light on the opaque world of online tracking"](https://arxiv.org/abs/1804.08959).
 - Usage of this dataset for future research is allowed under the following license:  
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> and is attributed to <a  href="https://whotracks.me/">.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> and is attributed to <a  href="https://whotracks.me/">https://whotracks.me/</a>.
 
 
 - test
