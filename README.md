@@ -5,7 +5,10 @@ Supplementary materials used in analysis for CHIIR 2020 publication "Towards Sea
 
 
 # Citing work and datasets
-- For our publication, please use the following bibtex entry for citation.
+- Annotations can be found in [this folder](https://github.com/stevenzim/chiir-2020/tree/master/Annotations)
+-- URL_TRACKER_DATA.csv contains the number of 3rd party trackers for each URL.  This dataset also includes where the tracking data was retreived.   Details for WhoTracks.me dataset are described further below.
+-- annotations_metadata.csv contains a unique id, URL visited, the search task number (as provided by Pogacar et al. ITCIR 2017), Cochrane medical question, correct answer to question
+- For our publication and usage of the annotations, please use the following bibtex entry for citation.
 
 ```
 @inproceedings{Zimmerman2020Towards,
@@ -19,10 +22,8 @@ Supplementary materials used in analysis for CHIIR 2020 publication "Towards Sea
 } 
 ```
 
-- For annotations published with this paper, please also use the above citation
-
 ## For the [WhoTracks.me](https://whotracks.me/) 10,000 website 3rd party tracking dataset.
-- Data used for analysis can be found in 
+- Data used for analysis can be found in [this folder](https://github.com/stevenzim/chiir-2020/tree/master/WhoTracks.me)
 - [WhoTracks.me](https://whotracks.me/) is collaborative project with teams at Cliqz and Ghostery. 
 - This dataset was made available for our research via an endpoint provided by Cliqz and Ghostery.
 - Please cite the paper ["WhoTracks.Me: Shedding light on the opaque world of online tracking"](https://arxiv.org/abs/1804.08959).
