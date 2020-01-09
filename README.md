@@ -6,8 +6,10 @@ Supplementary materials used in analysis for CHIIR 2020 publication "Towards Sea
 
 # Citing work and datasets
 - Annotations can be found in [this folder](https://github.com/stevenzim/chiir-2020/tree/master/Annotations)
-    - URL_TRACKER_DATA.csv contains the number of 3rd party trackers for each URL.  This dataset also includes where the tracking data was retreived.   Details for WhoTracks.me dataset are described further below.
-    - annotations_metadata.csv contains a unique id, URL visited, the search task number (as provided by Pogacar et al. ITCIR 2017), Cochrane medical question, correct answer to question
+    - *URL_TRACKER_DATA.csv* contains the number of 3rd party trackers for each URL.  This dataset also includes where the tracking data was retreived.   Details for WhoTracks.me dataset are described further below.
+    - *annotations_metadata.csv* contains a unique id, URL visited, the search task number (as provided by Pogacar et al. ITCIR 2017), Cochrane medical question, correct answer to question
+    - *annotations_new.csv* contains the annotations from each annotator and the final annotation after each annotator worked together to come to agreement.   The ID in here matches the ID in *URL_TRACKER_DATA.csv*
+    - *annotations_against_previous_studies.csv* contains annotations against previous studies (Pogacard et al. ITCIR 2017 and Zimmerman et al. CHIIR 2019).  File contains same fields as *annotations_new.csv*  plus the annotation from previous studies.  This data was used to test agreement between annotators and previous research.
 - For our publication and usage of the annotations, please use the following bibtex entry for citation.
 
 ```
