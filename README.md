@@ -5,7 +5,7 @@ Supplementary materials used in analysis for CHIIR 2020 publication "Towards Sea
 
 
 # Citing work and datasets
--For our publication, please use the following bibtex entry for citation.
+- For our publication, please use the following bibtex entry for citation.
 
 ```
 @inproceedings{Zimmerman2020Towards,
@@ -22,6 +22,7 @@ Supplementary materials used in analysis for CHIIR 2020 publication "Towards Sea
 - For annotations published with this paper, please also use the above citation
 
 ## For the [WhoTracks.me](https://whotracks.me/) 10,000 website 3rd party tracking dataset.
+- Data used for analysis can be found in 
 - [WhoTracks.me](https://whotracks.me/) is collaborative project with teams at Cliqz and Ghostery. 
 - This dataset was made available for our research via an endpoint provided by Cliqz and Ghostery.
 - Please cite the paper ["WhoTracks.Me: Shedding light on the opaque world of online tracking"](https://arxiv.org/abs/1804.08959).
